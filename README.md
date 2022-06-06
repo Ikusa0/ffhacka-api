@@ -30,7 +30,3 @@ O FF Verificator é um aplicativo que irá possibilitar maior confiabilidade dur
 - Fabiola Apaclla: Design
 - Amanda_Gomes: Negócios
 - Milena Barbosa: Negócios
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)

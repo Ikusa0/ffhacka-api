@@ -28,5 +28,5 @@ O FF Verificator é um aplicativo que irá possibilitar maior confiabilidade dur
 - Ayrton Porto: Programador
 - Livson Vinicius: Programador
 - Fabiola Apaclla: Design
-- Amanda_Gomes: Negócios
+- Amanda Gomes: Negócios
 - Milena Barbosa: Negócios
